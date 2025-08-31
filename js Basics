@@ -1,0 +1,27 @@
+var a=2
+var b=20
+console.log(a+b) ----->22
+
+{
+    let a=10//let is a local scope
+}
+console.log(a) ---> error: a is not defined
+{
+    let a=10//let is a local scope
+    console.log(a) ---> 10
+
+}
+
+{
+    var a=10 // var is a global scope
+}
+console.log(a) ---> 10
+
+const a=10
+a=20
+console.log(a) ----> error: Assignment to constant variable
+
+var a=10
+a=20
+console.log(a) ----> 20
+
