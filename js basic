@@ -1,3 +1,6 @@
+var , let ,const are JS KEYWORDS------------------------------------------>
+
+
 var a=2
 var b=20
 console.log(a+b) ----->22
@@ -19,11 +22,72 @@ console.log(a) ---> 10
 
 const a=10
 a=20
-console.log(a) ----> error: Assignment to constant variable
+console.log(a) ----> error: Assignment to 
+constant variable
 
 var a=10
 a=20
 console.log(a) ----> 20
+
+
+COMMENTS-------------------------------------->
+
+// single line COMMENTS
+
+/*multiLine COMMENTS
+multiLine COMMENTS
+multiLine COMMENTS*/
+
+
+
+js OPERATORS--------------------------------------->
+var a=2
+var b=3
+var c=a+b;
+console.log(c)----->5 
+
+var a=10;
+a++; or ++a;
+console.log(a)   ----->11
+
+
+var a=10;
+a--; or --a;
+console.log(a)------>9
+
+var a=10
+var b=a++ or b=++a
+console.log(b)----->10   or 11
+
+var a=10
+var b=--a or b=a--
+console.log(b)----->9 or 10
+
+
+
+
+dataTypes--------------------------------------------->
+
+console.log(10);--->10
+console.log("star")---->star
+console.log(typeof(10))----->number
+console.log(typeof(star))------->undefined
+console.log(typeof("star"))------>string
+
+var a=null
+console.log(a)----->null
+
+var a=null
+console.log(typeof(a))------>boolean
+
+
+
+js Functions_---------------------------------------------------------->
+
+
+
+
+
 
 
 
