@@ -43,4 +43,4 @@ function add(a,b){
 var num1=5
 var num2=12
 var res=add(num1,num2)
-console.log(res)-------------->17
+console.log(res)---------->17
