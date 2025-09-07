@@ -1,0 +1,9 @@
+Event:
+    An Event in JS is an action or occurrence that happens within a web page, such as a user's
+interaction (Clicking a button) or page loading.
+
+
+Event Handler:  
+    An Event  Handler in JS is a function that responds to an event when it occurs. It listens 
+for specific events and executes code to perform actions based on those events, creating 
+interactive and dynamic web applications.

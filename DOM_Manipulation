@@ -1,0 +1,2 @@
+DOM stands for Document Object Model, an interface for web document that represents their structure as tree-like Object. 
+It allows dynamic manipulation of page content using languages like JS.
